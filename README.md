@@ -8,4 +8,4 @@ pip install ssl
 pip install whois
 pip install dns.resolver
 ```
-### For more information,visit this link - www.serialkey.top](https://t.me/darkboss1bd
+### For more information,visit this link -https://t.me/darkboss1bd
